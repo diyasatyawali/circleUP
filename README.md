@@ -2,7 +2,7 @@
 
 ## 👋 Introduction
 
-Hi, I’m Diya Satyawali and I’m excited to introduce *CircleUp, a social networking web app designed to help people connect based on shared **goals, **interests, and **location* — all while maintaining *initial anonymity*.
+Hi, I’m Diya Satyawali and I’m excited to introduce **CircleUp**, a social networking web app designed to help people connect based on shared *goals*, *interests*, and *location* — all while maintaining *initial anonymity*.
 
 CircleUp isn't a dating app. It's a platform for building *meaningful, interest-based friendships*, especially for:
 - Students or professionals new to a city
